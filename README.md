@@ -1,5 +1,19 @@
 # Inspiring &/ Enlightning talks
 
+## Unrelated (or less related) to software development
+
+### The 737 MAX: Human Factors in Complex System 
+
+> Human factors design is a critical component of all complex systems. This case study on the 737 MAX demonstrates the risk of neglecting it.
+
+*Kyle Kotowick* – [Link](https://www.youtube.com/watch?v=R7PNS0QEw0w)
+
+### Are you a giver or a taker ?
+
+> In every workplace, there are three basic kinds of people: givers, takers and matchers. Organizational psychologist Adam Grant breaks down these personalities and offers simple strategies to promote a culture of generosity and keep self-serving employees from taking more than their share.
+
+*Adam Grant* - [Link](https://www.youtube.com/watch?v=YyXRYgjQXX0)
+
 ## Related to software development
 
 ### Conducting Humane Code Reviews
@@ -8,10 +22,3 @@
 
 *Adrienne Tacke* - [Link](https://www.youtube.com/watch?v=X9PJky1hjOE)
 
-## Unrelated (or less related) to software development
-
-### The 737 MAX: Human Factors in Complex System 
-
-> Human factors design is a critical component of all complex systems. This case study on the 737 MAX demonstrates the risk of neglecting it.
-
-*Kyle Kotowick* – [Link](https://www.youtube.com/watch?v=R7PNS0QEw0w)
