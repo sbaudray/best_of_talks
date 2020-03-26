@@ -1,5 +1,3 @@
-# Inspiring &/ Enlightning talks
-
 ## Unrelated (or less related) to software development
 
 ### The 737 MAX: Human Factors in Complex System 
