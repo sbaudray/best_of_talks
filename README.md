@@ -16,3 +16,8 @@
 
 *Adrienne Tacke* - [Link](https://www.youtube.com/watch?v=X9PJky1hjOE)
 
+## The art of destroying software
+
+> One of the most important “ilities” in software is the ability to delete it and start over.
+
+*Greg Young* - [Link](https://vimeo.com/108441214)
